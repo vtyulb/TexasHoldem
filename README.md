@@ -1,0 +1,4 @@
+TexasHoldem
+===========
+
+Calculator of winning
